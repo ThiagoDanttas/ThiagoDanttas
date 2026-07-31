@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,100:3776AB&height=190&section=header&text=Thiago%20Cardoso%20Dantas&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Python%20%26%20IA&descAlignY=55&descSize=18" width="100%" />
+
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=1000&color=3776AB&center=true&vCenter=true&width=650&lines=Automa%C3%A7%C3%A3o+de+processos+com+Python;Pipelines+de+dados%2C+ETL+e+web+scraping;LLMs+e+agentes+de+IA+aplicados+ao+neg%C3%B3cio" alt="Typing SVG" />
