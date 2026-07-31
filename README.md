@@ -82,14 +82,26 @@ Web scraping periódico de dados públicos com consolidação automática em ban
 
 ---
 
-## Estatísticas
+## Foco atual
+
+```text
+Estudando   →  Arquitetura de agentes de IA e orquestração de LLMs
+Praticando  →  Testes automatizados e boas práticas de código em Python
+Explorando  →  Engenharia de dados: orquestração de pipelines e modelagem
+Próximo     →  Inglês conversacional e certificação em cloud
+```
+
+<!--
+  SEÇÃO DE ESTATÍSTICAS (opcional)
+  A instância pública do github-readme-stats é instável por limite de requisições.
+  Para usar de forma confiável, faça o deploy da sua própria instância na Vercel
+  (repo: anuraghazra/github-readme-stats) e troque o domínio abaixo.
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ThiagoDanttas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoDanttas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
-
+<img height="165" src="https://SUA-INSTANCIA.vercel.app/api?username=ThiagoDanttas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<img height="165" src="https://SUA-INSTANCIA.vercel.app/api/top-langs/?username=ThiagoDanttas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&cache_seconds=86400" />
 </div>
+-->
 
 ---
 
