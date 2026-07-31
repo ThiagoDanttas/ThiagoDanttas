@@ -16,7 +16,7 @@ Hey,  What's up? :robot:
 
 ---
 
-## Sobre
+## Sobre 👨‍💻
 
 Desenvolvedor **Python** com foco em automação de processos, integração de sistemas e aplicação de **LLMs e agentes de IA** em problemas reais de negócio.
 
@@ -29,7 +29,7 @@ Comecei em dados — dashboards, ETL, tratamento de bases de múltiplas fontes �
 
 ---
 
-## Stack
+## Stacks :hammer_and_wrench:
 
 <div align="center">
 
@@ -60,7 +60,7 @@ Comecei em dados — dashboards, ETL, tratamento de bases de múltiplas fontes �
 
 ---
 
-## O que eu construo
+## Projetos
 
 ### 🚢 Pipeline de IA para conferência documental de cargas internacionais
 Extração de campos estruturados de documentos de embarque marítimo (HBL/MBL) via **OCR + LLM**, com motor de pareamento por shipment, normalização de unidades e retorno automático de relatório de divergências à API do cliente. Substituiu a conferência manual e reduziu o risco de divergências não detectadas.
@@ -82,7 +82,7 @@ Web scraping periódico de dados públicos com consolidação automática em ban
 
 ---
 
-## Foco atual
+## Foco atual ::
 
 ```text
 Estudando   →  Arquitetura de agentes de IA e orquestração de LLMs
@@ -105,7 +105,7 @@ Próximo     →  Inglês conversacional e certificação em cloud
 
 ---
 
-## Formação
+## Formação 📚
 
 **Tecnólogo em Ciência de Dados** — Uninove (2022 – 2024)<br />
 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Faculdade Impacta de Tecnologia (2021 – 2023)
