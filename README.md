@@ -25,7 +25,7 @@ Comecei em dados — dashboards, ETL, tratamento de bases de múltiplas fontes �
 - 🐍 Back-end em **Python** (FastAPI / Flask), integrações via **APIs REST**
 - 🤖 **OCR + LLM** para extração estruturada de documentos e classificação automática
 - 📊 **ETL, web scraping** e modelagem de dados para relatórios e indicadores
-- 📍 São Paulo, SP — 🇧🇷 Português nativo · 🇺🇸 Inglês técnico avançado
+- 📍 São Paulo, SP — 🇧🇷 Português nativo · 🇺🇸 Inglês técnico intermediário
 
 ---
 
