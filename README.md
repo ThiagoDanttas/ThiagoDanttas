@@ -120,6 +120,4 @@ Próximo     →  Inglês conversacional e certificação em cloud
 <a href="https://linkedin.com/in/thiago-dantas-ti">LinkedIn</a> ·
 <a href="mailto:thiagodanttas32@gmail.com">E-mail</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,100:0b1120&height=100&section=footer" width="100%" />
-
 </div>
