@@ -107,7 +107,7 @@ Próximo     →  Inglês conversacional e certificação em cloud
 
 ## Formação
 
-**Tecnólogo em Ciência de Dados** — Uninove (2022 – 2024)
+**Tecnólogo em Ciência de Dados** — Uninove (2022 – 2024)<br/>
 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Faculdade Impacta de Tecnologia (2021 – 2023)
 
 ---
