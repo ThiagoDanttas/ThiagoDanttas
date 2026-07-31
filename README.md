@@ -60,7 +60,7 @@ Comecei em dados — dashboards, ETL, tratamento de bases de múltiplas fontes �
 
 ---
 
-## Projetos
+## Projetos :building_construction:
 
 ### 🚢 Pipeline de IA para conferência documental de cargas internacionais
 Extração de campos estruturados de documentos de embarque marítimo (HBL/MBL) via **OCR + LLM**, com motor de pareamento por shipment, normalização de unidades e retorno automático de relatório de divergências à API do cliente. Substituiu a conferência manual e reduziu o risco de divergências não detectadas.
@@ -82,7 +82,7 @@ Web scraping periódico de dados públicos com consolidação automática em ban
 
 ---
 
-## Foco atual ::
+## Foco atual 🎯
 
 ```text
 Estudando   →  Arquitetura de agentes de IA e orquestração de LLMs
