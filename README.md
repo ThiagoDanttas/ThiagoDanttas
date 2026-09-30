@@ -56,6 +56,10 @@ Comecei em dados — dashboards, ETL, tratamento de bases de múltiplas fontes �
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+**Sistemas Operacionais**
+
+![Linux](https://img.shields.io/badge/linux-3776AB?style=for-the-badge&logo=linux&logoColor=black)   
+![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)   
 </div>
 
 ---
