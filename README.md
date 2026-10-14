@@ -9,7 +9,7 @@ Hey,  What's up? :robot:
 <p>
   <a href="https://linkedin.com/in/thiago-dantas-ti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:thiagodanttas32@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ThiagoDanttas&style=for-the-badge&color=3776AB&label=VISITAS" />
+  
 </p>
 
 </div>
